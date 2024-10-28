@@ -1,1 +1,1 @@
-Flask
+Flask run -p 80
